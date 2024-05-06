@@ -2,7 +2,7 @@ import openai
 import pyttsx3
 import speech_recognition
 
-openai.api_key = "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"
+openai.api_key = "USE YOUR OWN API KEY"
 
 limit = 1
 context = ""
